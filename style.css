@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    height: 100vh;
+    width: 20vw;
+    background-color: rgb(21, 22, 30);
+}
+
+
+
+.logo{
+    height: 10vh;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+li{
+    margin-top: 20%;
+    line-height: 700%;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    margin-left: 40%;
+    text-decoration: none;
+}
+
+.tudo1 {
+    display: flex;
+    height: 30%;
+    width: 100%;
+    background-color: rgb(55, 76, 93);
+
+}
+
+.branco {
+    display: flex;
+    height: 30%;
+    width: 100%;
+    background-color: rgb(55, 76, 93);
+    margin-top: -20%;
+}
+
+.branco2{
+    text-align: center;
+    width: 100%;
+    margin-top: -15%;
+}
